@@ -23,6 +23,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 ## Step 3: Customize your homepage
 
 TEST ONLY
+another test
 
 _Nice work setting the theme! :sparkles:_
 
